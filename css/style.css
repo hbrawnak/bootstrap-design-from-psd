@@ -300,3 +300,47 @@
     background: #ffffff;
     color: #87d37c;
 }
+
+#counterup{
+    background: url("../images/counter-back.jpg")no-repeat;
+}
+.counter-overlay{
+    background: rgba(0,0,0,.5);
+    width: 100%;
+}
+.counter-content{
+    padding-top: 100px;
+    padding-bottom: 230px;
+}
+.count{
+    border: 1px solid #5f5a58;
+    color: #ffffff;
+    padding: 15px 0;
+    background: rgba(0,0,0,.7);
+}
+.count span{
+    font-size: 30px;
+}
+.count h3{
+    font-size: 20px;
+}
+
+#contact-us{
+    padding: 100px 0;
+}
+.about-top p{
+    padding-top: 20px;
+}
+.contact-content{
+    color: #232424;
+    font-size: 45px;
+    line-height: 60px;
+}
+.contact-content i{}
+.contact-content h3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.contact-content h4{
+    font-size: 14px;
+}
